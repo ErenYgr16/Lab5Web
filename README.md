@@ -26,12 +26,18 @@
 ### Latihan 4: Seleksi Kondisi if-else
 * **Penjelasan**: Membuat program seleksi nilai mahasiswa (standar lulus >= 60) dengan mengonversi input string dari prompt menjadi tipe data *number* serta melakukan validasi rentang nilai 0–100.
 * **Screenshot**:
+<img width="464" height="236" alt="Screenshot from 2026-10-19 18-10-15" src="https://github.com/user-attachments/assets/e85d9a44-462a-499f-804c-6f93bb13a3ab" />
+<img width="464" height="236" alt="Screenshot from 2026-10-19 18-10-25" src="https://github.com/user-attachments/assets/a857a427-06c3-4adf-a08f-1374867db8d2" />
+<img width="464" height="236" alt="Screenshot from 2026-10-19 18-10-51" src="https://github.com/user-attachments/assets/fe86d788-a08a-444f-b0b0-067ffbe55c13" />
+<img width="464" height="236" alt="Screenshot from 2026-10-19 18-10-55" src="https://github.com/user-attachments/assets/84cffa9e-a569-4882-9c03-a58cfe80de70" />
 
 
 ### Latihan 5: Seleksi Kondisi switch
 * **Penjelasan**: Menerima input angka 1–5 dari pengguna dan menampilkan nama bilangan yang bersesuaian menggunakan struktur kendali *switch-case*.
 * **Screenshot**:
-  *(Sisipkan screenshot hasil switch-case di sini)*
+<img width="464" height="236" alt="Screenshot from 2026-10-19 18-10-25" src="https://github.com/user-attachments/assets/c5abf573-ef93-4174-8066-45fe53242a36" />
+<img width="464" height="236" alt="Screenshot from 2026-10-19 18-10-31" src="https://github.com/user-attachments/assets/afefaf09-1866-4ba8-b7c1-19157dee4c60" />
+
 
 ### Latihan 6: Form Bilangan Genap atau Ganjil
 * **Penjelasan**: Membuat form input interaktif untuk memeriksa apakah suatu bilangan bulat yang dimasukkan pengguna merupakan bilangan genap atau ganjil.

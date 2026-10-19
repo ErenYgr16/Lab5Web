@@ -26,10 +26,8 @@
 ### Latihan 4: Seleksi Kondisi if-else
 * **Penjelasan**: Membuat program seleksi nilai mahasiswa (standar lulus >= 60) dengan mengonversi input string dari prompt menjadi tipe data *number* serta melakukan validasi rentang nilai 0–100.
 * **Screenshot**:
-* **Input Valid**
 <img width="464" height="236" alt="Screenshot from 2026-10-19 18-10-15" src="https://github.com/user-attachments/assets/e85d9a44-462a-499f-804c-6f93bb13a3ab" />
 <img width="464" height="236" alt="Screenshot from 2026-10-19 18-10-10" src="https://github.com/user-attachments/assets/6bcea023-51fc-4d9b-ad69-a1414598bc68" />
-* **Input tidak valid** :
 <img width="464" height="236" alt="Screenshot from 2026-10-19 18-10-51" src="https://github.com/user-attachments/assets/fe86d788-a08a-444f-b0b0-067ffbe55c13" />
 <img width="464" height="236" alt="Screenshot from 2026-10-19 18-10-55" src="https://github.com/user-attachments/assets/84cffa9e-a569-4882-9c03-a58cfe80de70" />
 

@@ -62,6 +62,7 @@
 <img width="642" height="277" alt="Screenshot from 2026-10-19 16-43-36" src="https://github.com/user-attachments/assets/3a19afa7-b6eb-4ae1-b100-625449729855" />
 <img width="642" height="277" alt="Screenshot from 2026-10-19 16-43-56" src="https://github.com/user-attachments/assets/b92b9cc9-0109-4ee7-a13f-65c673382119" />
 <img width="635" height="258" alt="Screenshot from 2026-10-19 16-42-37" src="https://github.com/user-attachments/assets/eed822d5-e040-48e6-ba1a-477f0b12dfb9" />
+<img width="642" height="277" alt="Screenshot from 2026-10-19 16-43-18" src="https://github.com/user-attachments/assets/da8bccd3-82ab-431b-a439-b6d2fe3f1547" />
 
 
 ---
@@ -71,29 +72,39 @@
 ### 1. Modifikasi Latihan 3 (Input dari Prompt)
 * **Penjelasan**: Eksperimen dilakukan dengan mengubah mekanisme masukan pada Latihan 3. Angka pertama dan kedua yang sebelumnya bernilai konstan kini diambil langsung secara dinamis dari pengguna menggunakan dialog `prompt()`. Data yang diterima dari `prompt()` (berupa *string*) terlebih dahulu dikonversi menjadi tipe data numerik menggunakan `Number()` sebelum dilakukan operasi aritmetika (penjumlahan, pengurangan, perkalian, pembagian, dan modulus).
 * **Screenshot**:
-  *(Sisipkan screenshot tampilan dialog prompt dan hasil perhitungan di console di sini)*
+<img width="508" height="207" alt="Screenshot from 2026-10-19 17-05-22" src="https://github.com/user-attachments/assets/49ebffd5-44c9-4234-827a-dade5250b035" />
+<img width="1054" height="527" alt="Screenshot from 2026-10-19 16-57-06" src="https://github.com/user-attachments/assets/3a7dce6d-fab3-4357-a101-fd63bcf8220d" />
+<img width="1054" height="527" alt="Screenshot from 2026-10-19 16-56-36" src="https://github.com/user-attachments/assets/63c53787-1459-49cd-b816-bb397e60faf0" />
+
 
 ### 2. Tabel Perkalian Angka 7 (1 sampai 10)
 * **Penjelasan**: Menerapkan struktur perulangan `for` untuk menghasilkan tabel perkalian angka 7 secara otomatis dari pengali 1 hingga 10. Setiap iterasi menghitung hasil kali dan mencetak hasilnya secara terstruktur ke dalam `console.log()`.
 * **Screenshot**:
-  *(Sisipkan screenshot tampilan tabel perkalian di console di sini)*
+<img width="293" height="273" alt="Screenshot from 2026-10-19 17-10-18" src="https://github.com/user-attachments/assets/ac8628bd-1cc6-48b7-b400-afef32510c8f" />
+
 
 ### 3. Fungsi `cekGenap(angka)`
 * **Penjelasan**: Membuat sebuah fungsi logika bernama `cekGenap` yang menerima satu parameter masukan berupa angka. Fungsi ini memanfaatkan operator modulus (`% 2 === 0`) untuk mengecek sisa hasil bagi. Jika sisa bagi dengan 2 adalah 0, fungsi akan mengembalikan nilai boolean `true` (genap), dan jika tidak maka mengembalikan `false` (ganjil).
 * **Screenshot**:
-  *(Sisipkan screenshot hasil pengujian fungsi di console di sini)*
+<img width="293" height="273" alt="Screenshot from 2026-10-19 17-15-18" src="https://github.com/user-attachments/assets/c5edd64d-c1eb-4457-b751-cf864393abe7" />
+
 
 ### 4. Validasi Form (Kolom Tidak Boleh Kosong)
 * **Penjelasan**: Mengimplementasikan fungsi validasi pada elemen formulir HTML untuk memastikan pengguna mengisi kolom sebelum data dikirimkan. Fungsi memeriksa isi bidang input setelah menghapus spasi di awal/akhir (`trim()`). Jika kolom ditemukan kosong, program akan memunculkan peringatan `alert()` dan membatalkan proses submission.
 * **Screenshot**:
-  *(Sisipkan screenshot pesan peringatan saat kolom kosong di browser di sini)*
+<img width="300" height="169" alt="Screenshot from 2026-10-19 17-19-20" src="https://github.com/user-attachments/assets/05f6e34b-7b48-469d-bbb7-6f9ae35cf520" />
+<img width="300" height="169" alt="Screenshot from 2026-10-19 17-19-37" src="https://github.com/user-attachments/assets/41f41419-3b0d-42cc-8cf6-91bd622bbe60" />
+
 
 ### 5. Modifikasi Latihan 8 (Tambah Menu dan Harga)
 * **Penjelasan**: Mengembangkan latihan menu makanan dengan menambahkan dua pilihan menu baru beserta nilainya (*value*) ke dalam elemen checkbox HTML. Ketika pilihan menu baru dicentang atau dilepas, fungsi kalkulasi total harga otomatis menghitung ulang dan menampilkan akumulasi harga terbaru.
 * **Screenshot**:
-  *(Sisipkan screenshot tampilan daftar menu baru dan akumulasi total harga di sini)*
+<img width="299" height="248" alt="Screenshot from 2026-10-19 17-27-33" src="https://github.com/user-attachments/assets/40d96772-f3e7-457b-81ac-d60ffe83659c" />
+<img width="299" height="248" alt="Screenshot from 2026-10-19 17-27-28" src="https://github.com/user-attachments/assets/d50a4928-2bcc-4800-8afb-e604a3f453c3" />
+
 
 ### 6. Tombol Toggle (Sembunyikan / Tampilkan Elemen)
 * **Penjelasan**: Membuat tombol interaktif yang memanfaatkan manipulasi DOM pada properti CSS `style.display`. Saat tombol diklik, fungsi akan mengecek status visibilitas elemen target; jika elemen sedang tersembunyi (`none`), posisinya diubah menjadi tampak (`block`), dan sebaliknya.
 * **Screenshot**:
-  *(Sisipkan screenshot kondisi elemen saat ditampilkan dan disembunyikan di browser di sini)*
+<img width="443" height="124" alt="Screenshot from 2026-10-19 17-28-36" src="https://github.com/user-attachments/assets/47747fa8-eb22-4448-9ac3-387cf2ba2ac1" />
+<img width="450" height="86" alt="Screenshot from 2026-10-19 17-28-43" src="https://github.com/user-attachments/assets/7f5f4f94-d920-4d7d-bb37-af2af40ad036" />

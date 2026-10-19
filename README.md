@@ -7,18 +7,19 @@
 * **Penjelasan**: Mengenali cara menampilkan output di halaman HTML menggunakan `innerHTML`/`textContent` serta menampilkan pesan di Konsol pengembang menggunakan `console.log()`.
 * **Screenshot**:
 <img width="1366" height="738" alt="Screenshot from 2026-10-19 10-33-50" src="https://github.com/user-attachments/assets/1ac8a685-7cee-4338-a029-20dd8e15a825" />
+<img width="1366" height="738" alt="Screenshot from 2026-10-19 10-34-05" src="https://github.com/user-attachments/assets/4c317a46-7182-448f-ac05-c2b8db16ff9c" />
 
 
 ### Latihan 2: Alert dan Prompt
 * **Penjelasan**: Menggunakan dialog `prompt()` untuk meminta masukan nama pengguna serta `alert()` untuk menampilkan sambutan interaktif.
 * **Screenshot**:
-<img width="1366" height="738" alt="Screenshot from 2026-10-19 10-34-05" src="https://github.com/user-attachments/assets/4c317a46-7182-448f-ac05-c2b8db16ff9c" />
+<img width="1366" height="738" alt="Screenshot from 2026-10-19 10-35-55" src="https://github.com/user-attachments/assets/03fd0c4d-375d-41ae-a832-18bee4ba3625" />
+
 
 
 ### Latihan 3: Function dan Operasi Aritmetika
 * **Penjelasan**: Membuat fungsi JavaScript yang menerima dua bilangan, lalu menghitung serta menampilkan hasil penjumlahan, pengurangan, perkalian, pembagian, dan modulus.
 * **Screenshot**:
-![Uploading Screenshot from 2026-10-19 10-35-55.png…]()
 
 
 ### Latihan 4: Seleksi Kondisi if-else
